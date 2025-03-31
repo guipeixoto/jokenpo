@@ -24,3 +24,7 @@ O primeiro à <u>**completar 3 pontos**</u>, VENCE A PARTIDA! 👏🏆
 - Confetti
   
 - Material UI
+
+### Demo
+
+<video src="./images/jokenpo.mov" controls="controls" style="max-width: 730px;"></video>
